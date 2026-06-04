@@ -96,10 +96,6 @@ Step 6 → Limitations & Analytical Integrity
 ## 📚 References
 
 - Salamt, A. (2025). *Students' AI Usage and Academic Performance* [Dataset]. Kaggle. https://www.kaggle.com/datasets/aminasalamt/students-ai-usage-and-academic-performance
-- Edith Cowan University. (2026). *MAN6777.3 Data Driven Managerial Decisions – Activity 3 Assessment Brief*. ECU Learning Management System.
 
----
 
-Submitted by: Rasel Al Mamun Joy | Student ID: 10677322 | raselj@our.ecu.edu.au
 
-*MAN6777.3 – Edith Cowan University – 2026 Semester 1*
