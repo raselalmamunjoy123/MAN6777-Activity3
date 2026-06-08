@@ -3,7 +3,7 @@
 
 ---
 
-## 📌 Project Overview
+##  Project Overview
 
 This portfolio was completed as part of **Activity 3 (20%)** for MAN6777.3 at Edith Cowan University.
 
@@ -11,7 +11,7 @@ The objective was to select a real-world dataset, frame a meaningful managerial 
 
 ---
 
-## ❓ Managerial Decision Problem
+##  Managerial Decision Problem
 
 > **"Should universities implement a structured policy to encourage and regulate student AI tool usage in academic study, and if so, for which purposes and student groups should it be recommended?"**
 
@@ -21,7 +21,7 @@ Universities face increasing pressure to develop evidence-based policies on stud
 
 ---
 
-## 📂 Dataset
+##  Dataset
 
 | Detail | Information |
 |--------|-------------|
@@ -34,7 +34,7 @@ Universities face increasing pressure to develop evidence-based policies on stud
 
 ---
 
-## 🔑 Key Findings
+##  Key Findings
 
 | Finding | Result |
 |---------|--------|
@@ -47,7 +47,7 @@ Universities face increasing pressure to develop evidence-based policies on stud
 
 ---
 
-## 📊 Visualisations
+##  Visualisations
 
 The following charts were produced from the dataset using Python (matplotlib):
 
@@ -60,7 +60,7 @@ All visualisations are embedded in the submitted PDF report.
 
 ---
 
-## 🛠️ Analytical Workflow
+##  Analytical Workflow
 
 ```
 Step 1 → Problem Framing & Dataset Selection
@@ -75,7 +75,7 @@ Step 6 → Limitations & Analytical Integrity
 
 ---
 
-## ✅ Recommendations
+##  Recommendations
 
 1. **Introduce an AI Adoption Policy** — Formally encourage responsible AI use across all student groups
 2. **Develop AI Literacy Programs** — Provide guided training on ChatGPT, Copilot, and Gemini
@@ -83,7 +83,7 @@ Step 6 → Limitations & Analytical Integrity
 
 ---
 
-## 📁 Repository Contents
+##  Repository Contents
 
 | File | Description |
 |------|-------------|
@@ -93,7 +93,7 @@ Step 6 → Limitations & Analytical Integrity
 
 ---
 
-## 📚 References
+##  References
 
 - Salamt, A. (2025). *Students' AI Usage and Academic Performance* [Dataset]. Kaggle. https://www.kaggle.com/datasets/aminasalamt/students-ai-usage-and-academic-performance
 
